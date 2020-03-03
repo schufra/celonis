@@ -35,7 +35,7 @@
                 "extensible": false,
                 "config": {
                     "api_key": "ZDE0ODE4NDYtZTMxNy00NDYwLWI0YWMtODM3MmJlMGI2MWEzOmlsZ1J1RytwSkRwMExhTVorWmtHZU9xcjNsbzltMUlGSCs1dlUzMkVXQThl",
-                    "pool_id": "2b3ee944-f813-4035-98b5-b0249a5d5de3",
+                    "pool_id": "950f0db5-430f-488e-93a5-b744eb8ae5dd",
                     "primary_keys": [
                         "CASE_KEY"
                     ],
@@ -43,7 +43,7 @@
                     "is_upsert": true,
                     "log_level": "INFO",
                     "table_name": "SEGMENT",
-                    "team": "sap-qa"
+                    "team": "sap"
                 }
             }
         },
@@ -81,9 +81,9 @@
                 "extensible": false,
                 "config": {
                     "api_key": "ZDE0ODE4NDYtZTMxNy00NDYwLWI0YWMtODM3MmJlMGI2MWEzOmlsZ1J1RytwSkRwMExhTVorWmtHZU9xcjNsbzltMUlGSCs1dlUzMkVXQThl",
-                    "pool_id": "2b3ee944-f813-4035-98b5-b0249a5d5de3",
+                    "pool_id": "950f0db5-430f-488e-93a5-b744eb8ae5dd",
                     "realm": "eu-1",
-                    "team": "sap-qa"
+                    "team": "sap"
                 }
             }
         },
