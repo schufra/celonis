@@ -6,3 +6,4 @@
 |   03.03.2020  |   4.0.2   |   C5215227    |   Saved to production.            |
 |   04.03.2020  |   4.0.2   |   C5215227    |   Saved to production again.      |
 |   04.03.2020  |   4.0.2   |   C5215227    |   Saved to production and again.  |
+|   04.03.2020  |   4.0.3   |   C5215227    |   Restored to version 4.0.2.  |
